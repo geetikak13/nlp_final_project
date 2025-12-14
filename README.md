@@ -30,7 +30,7 @@ nlp_final_project/
 
 1.  **Clone the repository :**
     ```bash
-    git clone https://github.com/geetikak13/cnn_performance_comparison
+    git clone https://github.com/geetikak13/nlp_final_project
     ```
 
 2. **Environment Setup**
