@@ -66,25 +66,6 @@ pip install -r requirements.txt
 * Apple Silicon Mac with macOS 12.3+.
 
 
-## 🚀 Setup & Installation
-1. Prerequisites
-* Python 3.8+
-* CUDA-enabled GPU (Highly recommended for training)
-
-2. Environment Setup
-Create a virtual environment to isolate dependencies:
-```Bash
-# Create virtual environment
-python -m venv venv
-
-# Activate (Windows)
-venv\Scripts\activate
-
-# Activate (Mac/Linux)
-source venv/bin/activate
-```
-
-
 ## Usage
 1. **Interactive Walkthrough (Main Launcher)**
 This is the primary way to run the project. It guides you through the entire pipeline step-by-step, including training, attacking, and visualizing attention maps.
